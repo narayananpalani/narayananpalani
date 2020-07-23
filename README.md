@@ -1,6 +1,6 @@
 ### Hello, I am Narayanan Palani
 Welcome to my Github Profile :sparkles:
-[![European Software Testing Awards](https://github.com/narayananpalani/narayananpalani/tree/master/images/european_testing_awards_mini.gif)](https://www.udemy.com/user/narayanan-palani/)
+[![European Software Testing Awards](https://github.com/narayananpalani/narayananpalani/blob/master/images/european_testing_awards_mini.gif?raw=true)](https://www.udemy.com/user/narayanan-palani/)
 
 🔭 I’m currently working on Selenium, Cypress and hundreds of interesting toolsets across functional,automation, security,performance and accessibility testing.
 
@@ -10,7 +10,7 @@ Welcome to my Github Profile :sparkles:
  [Udemy Profile Link for Narayanan Palani](https://www.udemy.com/user/narayanan-palani/)
 
 :tada: One of my Best Seller in Udemy Professional Courses:
-[![ISTQB Advanced Test Automation Engineering Training](https://github.com/narayananpalani/narayananpalani/tree/master/images/ISTQBAdvancedTestAutomationEngineering.png)](https://www.udemy.com/course/istqb-advanced/?couponCode=LEARNJULY)
+[![ISTQB Advanced Test Automation Engineering Training](https://github.com/narayananpalani/narayananpalani/blob/master/images/ISTQBAdvancedTestAutomationEngineering.png?raw=true)](https://www.udemy.com/course/istqb-advanced/?couponCode=LEARNJULY)
 
 ⚡Don't forget to connect in Linkedin:
 [Linkedin Profile Link for Narayanan Palani](https://www.linkedin.com/in/narayananpalani/)
