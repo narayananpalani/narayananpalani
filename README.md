@@ -1,6 +1,6 @@
 ### Hello, I am Narayanan Palani
 Welcome to my Github Profile :sparkles:
-![European Software Testing Awards](images/europeanTestingAwards.gif)
+![European Software Testing Awards](https://github.com/narayananpalani/narayananpalani/images/europeanTestingAwards.gif)
 
 🔭 I’m currently working on Selenium, Cypress and hundreds of interesting toolsets across functional,automation, security,performance and accessibility testing.
 
@@ -11,7 +11,7 @@ Welcome to my Github Profile :sparkles:
 
 :tada: One of my Best Seller in Udemy Professional Courses:
 [ISTQB Advanced Test Automation Engineering Training Link](https://www.udemy.com/course/istqb-advanced/?couponCode=LEARNJULY)
-![ISTQB Advanced Test Automation Engineering Training](images/ISTQBAdvancedTestAutomationEngineering.png)
+![ISTQB Advanced Test Automation Engineering Training](https://github.com/narayananpalani/narayananpalani/images/ISTQBAdvancedTestAutomationEngineering.png)
 
 
 
