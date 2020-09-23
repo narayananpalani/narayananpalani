@@ -15,12 +15,12 @@ Welcome to my Github Profile
 
 :octocat: I have some very exciting github open source projects for the QA community absolutely 100% free
  
-:rocket: I help engineers across 151+ countries through [Udemy](https://www.udemy.com/user/narayanan-palani/). Use 'LEARNAUGUST' as coupon code if you want to get discounted price to my courses in udemy (limited period).
+:rocket: I help engineers across 151+ countries through [Udemy](https://www.udemy.com/user/narayanan-palani/). Use 'LEARNSEPTEMBER' as coupon code if you want to get discounted price to my courses in udemy (limited period).
 
 [![video showing international reach of udemy courses](https://github.com/narayananpalani/narayananpalani/blob/master/images/globalreach.gif?raw=true)](https://www.udemy.com/user/narayanan-palani/)
 
 :tada: Learn Web Accessibility from one of my latest professional course in Udemy:
-[![Web Accessibility Development and Testing](https://github.com/narayananpalani/narayananpalani/blob/master/images/WebAccessibilityDevelopmentAndTestingUdemy.gif?raw=true)](https://www.udemy.com/course/web_accessibility/?couponCode=LEARNAUGUST)
+[![Web Accessibility Development and Testing](https://github.com/narayananpalani/narayananpalani/blob/master/images/WebAccessibilityDevelopmentAndTestingUdemy.gif?raw=true)](https://www.udemy.com/course/web_accessibility/?couponCode=LEARNSEPTEMBER)
 
 :tada: One of my Best Seller in Udemy Professional Courses:
 [![ISTQB Advanced Test Automation Engineering Training](https://github.com/narayananpalani/narayananpalani/blob/master/images/ISTQBAdvancedTestAutomationEngineering.png?raw=true)](https://www.udemy.com/course/istqb-advanced/?couponCode=LEARNAUGUST)
