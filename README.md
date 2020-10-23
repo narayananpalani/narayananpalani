@@ -19,7 +19,7 @@ Welcome to my Github Profile
 
 [![video showing international reach of udemy courses](https://github.com/narayananpalani/narayananpalani/blob/master/images/globalreach.gif?raw=true)](https://engineers-hub.teachable.com/)
 
-:tada: Learn Web Accessibility from one of my latest professional course in Udemy:
+:tada: Learn Web Accessibility from one of my latest professional course in Teachable:
 [![Web Accessibility Development and Testing](https://github.com/narayananpalani/narayananpalani/blob/master/images/WebAccessibilityDevelopmentAndTestingUdemy.gif?raw=true)](https://engineers-hub.teachable.com/p/webaccessibility)
 
 :tada: One of my Best Seller in Teachable Professional Courses:
