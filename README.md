@@ -7,7 +7,7 @@ Welcome to my Github Profile
 
 :sparkles: Best Test Manager of the Year (Title Winner) of European Software Testing Awards :sparkles:
 
-[![European Software Testing Awards](https://github.com/narayananpalani/narayananpalani/blob/master/images/european_testing_awards_mini.gif?raw=true)](https://www.udemy.com/user/narayanan-palani/)
+[![European Software Testing Awards](https://github.com/narayananpalani/narayananpalani/blob/master/images/european_testing_awards_mini.gif?raw=true)](https://engineers-hub.teachable.com/)
 
 
 
@@ -15,15 +15,15 @@ Welcome to my Github Profile
 
 :octocat: I have some very exciting github open source projects for the QA community absolutely 100% free
  
-:rocket: I help engineers across 151+ countries through [Udemy](https://www.udemy.com/user/narayanan-palani/). Use 'LEARNSEPTEMBER' as coupon code if you want to get discounted price to my courses in udemy (limited period).
+:rocket: I help engineers across 151+ countries through [Teachable](https://engineers-hub.teachable.com/). 
 
-[![video showing international reach of udemy courses](https://github.com/narayananpalani/narayananpalani/blob/master/images/globalreach.gif?raw=true)](https://www.udemy.com/user/narayanan-palani/)
+[![video showing international reach of udemy courses](https://github.com/narayananpalani/narayananpalani/blob/master/images/globalreach.gif?raw=true)](https://engineers-hub.teachable.com/)
 
 :tada: Learn Web Accessibility from one of my latest professional course in Udemy:
-[![Web Accessibility Development and Testing](https://github.com/narayananpalani/narayananpalani/blob/master/images/WebAccessibilityDevelopmentAndTestingUdemy.gif?raw=true)](https://www.udemy.com/course/web_accessibility/?couponCode=LEARNSEPTEMBER)
+[![Web Accessibility Development and Testing](https://github.com/narayananpalani/narayananpalani/blob/master/images/WebAccessibilityDevelopmentAndTestingUdemy.gif?raw=true)](https://engineers-hub.teachable.com/p/webaccessibility)
 
-:tada: One of my Best Seller in Udemy Professional Courses:
-[![ISTQB Advanced Test Automation Engineering Training](https://github.com/narayananpalani/narayananpalani/blob/master/images/ISTQBAdvancedTestAutomationEngineering.png?raw=true)](https://www.udemy.com/course/istqb-advanced/?couponCode=LEARNAUGUST)
+:tada: One of my Best Seller in Teachable Professional Courses:
+[![ISTQB Advanced Test Automation Engineering Training](https://github.com/narayananpalani/narayananpalani/blob/master/images/ISTQBAdvancedTestAutomationEngineering.png?raw=true)](https://engineers-hub.teachable.com/p/istqb-advanced-level-test-automation-engineer-professional-training-with-q-a)
 ⚡Don't forget to connect in Linkedin:
 [Linkedin ](https://www.linkedin.com/in/narayananpalani/)
 
