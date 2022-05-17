@@ -3,7 +3,7 @@
 
 Welcome to my Github Profile 
 
-🔭 I’m currently working on Selenium, Cypress and hundreds of interesting toolsets across functional,automation, security,performance and accessibility testing.
+🔭 I’m currently coaching teams on engineering and test automation transformation through Selenium, Cypress and hundreds of interesting toolsets across functional,automation, security,performance and accessibility testing.
 
 :sparkles: European Software Testing Awards - Best Test Manager of the Year (Title Winner) :sparkles:
 
