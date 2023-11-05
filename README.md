@@ -3,7 +3,7 @@
 
 Welcome to my Github Profile 
 
-🔭 I’m currently coaching teams on engineering and test automation transformation through Selenium, Cypress and hundreds of interesting toolsets across functional,automation, security,performance and accessibility testing.
+🔭 I’m currently coaching group of engineering teams as an hands-on engineering lead across front end development,devops, test automation transformation through Selenium, Cypress and hundreds of interesting toolsets across functional,automation, security,performance, accessibility testing and artificial intelligence usage across digital transformation.
 
 :sparkles: European Software Testing Awards - Best Test Manager of the Year (Title Winner) :sparkles:
 
