@@ -3,9 +3,9 @@
 
 Welcome to my Github Profile 
 
-🔭 Engineering Leader with over 16 years of experience, led teams that made impact in Retail Banking comprises of International Payments, Customer Onboarding and Authentication, Credit Cards, Pensions along with Commercial Banking, SMEs and Investment Banking
+🔭 I am an Engineering Leader with over 16+ years of experience, led leads and teams that made positive impact across 26m customers in Retail Banking comprises of International Payments, Customer Onboarding and Authentication, Credit Cards, Pensions along with Commercial Banking, SMEs and Investment Banking
 
-🔭 Career highlights include building accessible tech in Banking Apps and Websites for 26m customers, Deliver seamless International Money Transfer, Cloud transformation of legacy user journeys to Google Cloud, Delivering vital Covid Changes to Commercial Banking customers, Digital enablement of Scottish Widows Pensions, Enablement of Mona Credit Cards to transform millions of customers to safe internet banking and leading the platform that growing at scale across international payments domain. Helping grow a FinTech into regional expansion. Saving $millions by owning strategic initiatives for the last eight years. 
+🔭 Career highlights include building accessible tech in Banking Apps and Websites, Deliver seamless International Money Transfer, Cloud transformation of legacy user journeys to Google Cloud, Delivering vital Covid Changes to Commercial Banking customers, Digital enablement of Scottish Widows Pensions, Enablement of Mona Credit Cards to transform millions of customers to safe internet banking and leading the platform that growing at scale across international payments domain. Helping grow a FinTech into regional expansion. Saving $millions by owning strategic initiatives for the last eight years. 
 
 🔭 My passion is empowering software leaders to lead with empathy, shape culture, establish vision and encourage growth at every opportunity and optimize performance through radical candor. My experience of balancing delivery pragmatism, craftsmanship and people has been honed through top CSAT scores and customer satisfaction.
 
