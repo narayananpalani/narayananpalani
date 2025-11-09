@@ -11,6 +11,40 @@
 I bring together **technology excellence, cloud innovation, and people leadership** — driving measurable business outcomes, OKR-based delivery, and engineering cultures built on empathy, craftsmanship, and performance.  
 
 ---
+## 🧠 Hackathon Achievements
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px; margin-top:20px;">
+
+  <!-- 2024 Hackathon -->
+  <div style="text-align:center;">
+    <h3>🏅 FinTech Innovation Hackathon 2024 </h3>
+    <a href="https://raw.githubusercontent.com/narayananpalani/narayananpalani/master/images/Hackathon2024.gif" target="_blank" rel="noopener">
+      <img src="https://raw.githubusercontent.com/narayananpalani/narayananpalani/master/images/Hackathon2024.gif"
+           alt="Global Innovation Hackathon 2024 Winner"
+           width="420" height="420"
+           style="border-radius:12px; margin:10px; box-shadow:0 2px 10px rgba(0,0,0,0.3);" />
+    </a>
+    <p><em>Recognised for leading a cross-functional teams delivering AI-driven FinTech solution prototypes in under 48 hours.</em></p>
+  </div>
+
+  <!-- 2022 Automation Hackathon -->
+  <div style="text-align:center;">
+    <h3>🤖 Automation Hackathon 2022 — Champion</h3>
+    <a href="https://raw.githubusercontent.com/narayananpalani/narayananpalani/master/images/AutomationHackathon2022.gif" target="_blank" rel="noopener">
+      <img src="https://raw.githubusercontent.com/narayananpalani/narayananpalani/master/images/AutomationHackathon2022.gif"
+           alt="Automation Hackathon 2022 Champion"
+           width="420" height="420"
+           style="border-radius:12px; margin:10px; box-shadow:0 2px 10px rgba(0,0,0,0.3);" />
+    </a>
+    <p><em>Awarded for pioneering an automated QA framework that improved CI/CD release velocity by 60%.</em></p>
+  </div>
+
+</div>
+
+<p align="center">
+  💡 <strong>Consistent recognition for innovation, automation, and rapid prototyping excellence across multiple hackathons.</strong>
+</p>
+
 
 ### 🧠 What I Do
 
