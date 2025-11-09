@@ -1,3 +1,7 @@
+
+<!-- Banner: clickable poster that opens the hosted MP4 -->
+[![Banner — Narayanan Palani](https://github.com/narayananpalani/narayananpalani/blob/master/images/GitHub%20BannerV2.gif)](https://raw.githubusercontent.com/narayananpalani/narayananpalani/BRANCH/images/GitHub%20BannerV3.mp4)
+
 ## 💼 Career Summary
 
 🚀 **Senior Engineering Leader | Cloud Transformation Architect | FinTech Visionary**
@@ -29,6 +33,8 @@ Establishing **CI/CD pipelines**, test automation (Selenium, Cypress, Playwright
 Partnered with **CIOs, CTOs, and Group CEOs** to shape technical vision, architecture funding models, and engineering strategies — balancing speed, safety, and innovation.  
 
 ---
+
+
 
 ### 🌟 Key Achievements & Impact
 
@@ -164,14 +170,39 @@ Below are selected certifications — click a badge to view the verification/ven
 
 </div>
 
-<h3 align="center">✨ European Software Testing Awards — Best Test Manager of the Year (Title Winner) ✨</h3>
+<h2 align="center">🏆 Awards & Industry Recognition</h2>
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px; margin-top:20px;">
+
+  <!-- Digital Tech Awards -->
+  <div style="text-align:center;">
+    <h3>✨ European Software Testing Awards — Winner (2018 – 2023)</h3>
+    <a href="https://raw.githubusercontent.com/narayananpalani/narayananpalani/master/images/Testa2019-21.gif" target="_blank" rel="noopener">
+      <img src="https://raw.githubusercontent.com/narayananpalani/narayananpalani/master/images/Testa2019-21.gif"
+           alt="Digital Tech Awards — Innovation & Engineering Leadership Winner"
+           width="420" height="420"
+           style="border-radius:12px; margin:10px; box-shadow:0 2px 10px rgba(0,0,0,0.3);" />
+    </a>
+  </div>
+
+  <!-- European Software Testing Awards -->
+  <div style="text-align:center;">
+    <h3>✨ European Software Testing Awards — Best Test Manager of the Year 2019</h3>
+    <a href="https://engineers-hub.teachable.com/" target="_blank" rel="noopener">
+      <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/european_testing_awards_mini.gif?raw=true"
+           alt="European Software Testing Awards — Winner 2018–2023"
+           width="220" height="220"
+           style="border-radius:12px; margin:10px; box-shadow:0 2px 10px rgba(0,0,0,0.3);" />
+    </a>
+  </div>
+
+</div>
 
 <p align="center">
-  <a href="https://engineers-hub.teachable.com/" target="_blank" rel="noopener">
-    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/european_testing_awards_mini.gif?raw=true" 
-         alt="European Software Testing Awards" width="220" height="220" style="border-radius:10px; margin:10px;" />
-  </a>
+  🥇 Honoured as a <strong>multi-year award winner (2018–2023)</strong> for outstanding contributions in software quality, innovation, and engineering leadership.
 </p>
+
+
 
 <p align="center">
   🌱 I am a receiver of <strong>'Tier 1 Exceptional Talent'</strong> visa with an endorsement from TechCity UK to help and improve digital technology.
@@ -191,7 +222,7 @@ Below are selected certifications — click a badge to view the verification/ven
   <a href="https://www.routledge.com/The-Web-Accessibility-Project-Development-and-Testing-Best-Practices/Palani/p/book/9781032202006" 
      target="_blank" rel="noopener">
     <img src="https://images.routledge.com/common/jackets/crclarge/978103220/9781032202006.jpg" 
-         alt="The Web Accessibility Project" width="220" height="220" style="border-radius:10px; box-shadow:0 0 5px rgba(0,0,0,0.2);" />
+         alt="The Web Accessibility Project" width="220" height="420" style="border-radius:10px; box-shadow:0 0 5px rgba(0,0,0,0.2);" />
   </a>
 
   <a href="https://www.routledge.com/Automated-Software-Testing-with-Cypress/Palani/p/book/9780367699543" 
