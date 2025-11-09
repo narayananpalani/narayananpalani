@@ -1,15 +1,89 @@
-### Hello, I am Narayanan Palani
+## 💼 Career Summary
+
+🚀 **Senior Engineering Leader | Cloud Transformation Architect | FinTech Visionary**
+
+👋 With **17+ years of experience**, I lead large-scale software engineering teams across **HSBC, Lloyds Banking Group, U.S. Bank, and K Bank**, delivering secure, scalable, and customer-first banking platforms that power the financial journeys of millions of customers globally.  
+
+I bring together **technology excellence, cloud innovation, and people leadership** — driving measurable business outcomes, OKR-based delivery, and engineering cultures built on empathy, craftsmanship, and performance.  
+
+---
+
+### 🧠 What I Do
+
+💻 **Engineering Leadership at Scale:**  
+Leading cross-functional FinTech teams building cloud-native solutions using **React.js, Next.js, Jest, Playwright, Spring Boot, Java, PostgreSQL, AuroraDB**, and integrated CI/CD pipelines across **AWS, GCP, and Azure**.  
+
+☁️ **Cloud Transformation Expert:**  
+Hands-on architecture and migration of enterprise-grade applications:
+- **AWS:** EC2, S3, RDS, Lambda, CloudWatch, ECS, EKS, CloudFormation, Terraform, API Gateway  
+- **Azure:** VMs, Functions, AKS, API Management, Service Bus, Monitor, ARM Templates  
+- **GCP:** GKE, Cloud SQL, Pub/Sub, Cloud Functions, Apigee, Deployment Manager  
+
+🔒 **Security & Compliance:**  
+Ensuring regulatory adherence with **GDPR, PCI-DSS, MiFID, SOX**, and implementing best practices in security testing (**Burp Suite, OWASP ZAP, DAST**).  
+
+⚙️ **Engineering Excellence:**  
+Establishing **CI/CD pipelines**, test automation (Selenium, Cypress, Playwright), and accessibility-first delivery in alignment with **WCAG standards** — enabling inclusivity and digital accessibility for all customers.  
+
+🌍 **Strategic Leadership:**  
+Partnered with **CIOs, CTOs, and Group CEOs** to shape technical vision, architecture funding models, and engineering strategies — balancing speed, safety, and innovation.  
+
+---
+
+### 🌟 Key Achievements & Impact
+
+🏗️ **Platform Engineering Transformation:**  
+- Directed **multi-site engineering organizations (100+ engineers)**, modernizing onboarding, payments, statements, and account management systems.  
+- Achieved **£7.5M cost savings (2023)** and **10x customer growth (2024)** through automation and modernization initiatives.  
+
+🌐 **Cloud-Native Architecture:**  
+- Architected and deployed **microservice-based** systems across **AWS, Azure, and GCP**, integrating automated testing, monitoring, and observability.  
+- Enabled continuous delivery using **Java/Spring Boot**, **React/Next.js**, and **PostgreSQL/AuroraDB**.  
+
+📊 **Operational Excellence:**  
+- Established engineering OKRs and **DORA metrics**, improving deployment frequency and reducing lead time for change by **55%**.  
+- Fostered **inclusive, high-performing cultures**, mentoring senior engineers, architects, and managers.  
+
+💡 **Cultural Impact:**  
+- Championed **Event Storming** and **Domain-Driven Design (DDD)** disciplines to enhance clarity and system resilience.  
+- Cultivated collaboration across onshore and nearshore teams, embedding shared ownership and innovation DNA.  
+
+---
+
+### 🧩 Areas of Expertise
+
+🏆 **Engineering Leadership | Technical Strategy | Software Development**  
+🚀 **Agile / SAFe / Scrum | DevOps | CI/CD | Cloud Architecture (AWS/GCP/Azure)**  
+💬 **Cross-Functional Collaboration | Product Development | Innovation Management**  
+🧱 **Microservices | System Design | API Development | Infrastructure as Code**  
+🧠 **Data-Driven Decision Making | Risk Mitigation | Automation | Security Best Practices**  
+🤝 **Mentorship | Stakeholder Management | Team Building | Organizational Culture**
+
+---
+
+### 🛠️ Tech Arsenal
+
+**Languages:** JavaScript, TypeScript, Java, Python, .NET, VBScript  
+**Frameworks:** React.js, Next.js, Spring Boot, Jest, Playwright, Cypress, Selenium  
+**Databases:** PostgreSQL, AuroraDB, MongoDB, SQL, Snowflake  
+**Cloud Platforms:** AWS ☁️ | Azure 🔷 | GCP 🟢  
+**Tools:** Docker 🐳 | Kubernetes ⚙️ | Terraform | Jenkins | JIRA | Git | Cucumber | BrowserStack | Burp Suite | ZAP  
+
+---
+
+### 🌈 Leadership Philosophy
+
+💡 Lead with **empathy**  
+⚙️ Build with **excellence**  
+📊 Deliver with **impact**  
+🌍 Scale with **purpose**
+
+---
+
+✨ *Engineering isn’t just about technology — it’s about people, progress, and purpose.* ✨
 
 
-Welcome to my Github Profile 
-
-🔭 I am an Engineering Leader with over 16+ years of experience, led leads and teams that made positive impact across 26m customers in Retail Banking comprises of International Payments, Customer Onboarding and Authentication, Credit Cards, Pensions along with Commercial Banking, SMEs and Investment Banking
-
-🔭 Career highlights include building accessible tech in Banking Apps and Websites, Deliver seamless International Money Transfer, Cloud transformation of legacy user journeys to Google Cloud, Delivering vital Covid Changes to Commercial Banking customers, Digital enablement of Scottish Widows Pensions, Enablement of Mona Credit Cards to transform millions of customers to safe internet banking and leading the platform that growing at scale across international payments domain. Helping grow a FinTech into regional expansion. Saving $millions by owning strategic initiatives for the last eight years. 
-
-🔭 My passion is empowering software leaders to lead with empathy, shape culture, establish vision and encourage growth at every opportunity and optimize performance through radical candor. My experience of balancing delivery pragmatism, craftsmanship and people has been honed through top CSAT scores and customer satisfaction.
-
-## 🎖 Certifications
+## 🎖 Certification Badges
 
 Below are selected certifications — click a badge to view the verification/vendor page.
 
