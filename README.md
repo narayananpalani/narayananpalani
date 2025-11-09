@@ -9,6 +9,62 @@ Welcome to my Github Profile
 
 🔭 My passion is empowering software leaders to lead with empathy, shape culture, establish vision and encourage growth at every opportunity and optimize performance through radical candor. My experience of balancing delivery pragmatism, craftsmanship and people has been honed through top CSAT scores and customer satisfaction.
 
+## 🎖 Certifications
+
+Below are selected certifications — click a badge to view the verification/vendor page.
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:12px;">
+
+  <!-- AWS -->
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/aws-certified-solutionarch-associate.png?raw=true"
+         alt="AWS Certified Solutions Architect – Associate" width="120" height="120" style="object-fit:contain; background:#fff; padding:8px; border-radius:8px;" />
+  </a>
+
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/aws-certified-developer-associate.png?raw=true"
+         alt="AWS Certified Developer – Associate" width="120" height="120" style="object-fit:contain; background:#fff; padding:8px; border-radius:8px;" />
+  </a>
+
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-machine-learning-specialty" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/aws-certified-machine-learning-specialty.png?raw=true"
+         alt="AWS Certified Machine Learning – Specialty" width="120" height="120" style="object-fit:contain; background:#fff; padding:8px; border-radius:8px;" />
+  </a>
+
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-data-engineer-associate" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/aws-certified-data-engineer-associate.png?raw=true"
+         alt="AWS Certified Data Engineer – Associate" width="120" height="120" style="object-fit:contain; background:#fff; padding:8px; border-radius:8px;" />
+  </a>
+
+  <!-- Azure -->
+  <a href="https://learn.microsoft.com/en-us/users/credentials/azure-security-engineer-associate" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/microsoft-certified-azure-security-engineer-associate.png?raw=true"
+         alt="Azure Security Engineer" width="120" height="120" style="object-fit:contain; background:#fff; padding:8px; border-radius:8px;" />
+  </a>
+
+  <!-- Google Cloud -->
+  <a href="https://www.credly.com/org/google-cloud/badge/professional-cloud-architect" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/professional-cloud-architect-certification.png?raw=true"
+         alt="Google Professional Cloud Architect" width="120" height="120" style="object-fit:contain; background:#fff; padding:8px; border-radius:8px;" />
+  </a>
+
+  <a href="https://www.credly.com/org/google-cloud/badge/professional-machine-learning-engineer" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/professional-machine-learning-engineer-certificatio.png?raw=true"
+         alt="Google Professional Machine Learning Engineer" width="120" height="120" style="object-fit:contain; background:#fff; padding:8px; border-radius:8px;" />
+  </a>
+
+  <a href="https://www.credly.com/org/google-cloud/badge/professional-cloud-security-engineer" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/professional-cloud-security-engineer-certification.png?raw=true"
+         alt="Google Professional Cloud Security Engineer" width="120" height="120" style="object-fit:contain; background:#fff; padding:8px; border-radius:8px;" />
+  </a>
+
+  <a href="https://www.credly.com/org/google-cloud/badge/professional-cloud-devops-engineer" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/professional-cloud-devops-engineer-certification.png?raw=true"
+         alt="Google Professional Cloud DevOps Engineer" width="120" height="120" style="object-fit:contain; background:#fff; padding:8px; border-radius:8px;" />
+  </a>
+
+
+</div>
 
 <h3 align="center">✨ European Software Testing Awards — Best Test Manager of the Year (Title Winner) ✨</h3>
 
