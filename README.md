@@ -91,15 +91,15 @@ Partnered with **CIOs, CTOs, and Group CEOs** to shape technical vision, archite
 
 ### 🏛️ Academic Credentials
 
-- 🎓 **[Harvard Business School Online – Certificate of Specialization in Leadership & Management](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/00HBSonline/CertOfSpecializationLdrshipMgmt.pdf?raw=true)** _(opens in new tab)_
+- 🎓 **[Harvard Business School Online – Certificate of Specialization in Leadership & Management](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/00HBSonline/CertOfSpecializationLdrshipMgmt.pdf)** _(opens in new tab)_
 
-- 🎓 **[University of Exeter Business School – Sustainability Leadership Program](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/01ExeterBusinessSchool/certificate.pdf?raw=true)** _(opens in new tab)_
+- 🎓 **[University of Exeter Business School – Sustainability Leadership Program](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/01ExeterBusinessSchool/Narayanan_Palani_Advanced_Sustainability_Course.pdf)** _(opens in new tab)_
 
-- 🎓 **[University of Cambridge – Executive Program on Digital Transformation & Strategy](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/02UnivOfCambridge/certificate.pdf?raw=true)** _(opens in new tab)_
+- 🎓 **[University of Cambridge – Executive Program on Digital Transformation & Strategy](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/02UnivOfCambridge/Certificate_of_completion.pdf)** _(opens in new tab)_
 
-- 🎓 **[Wharton School, University of Pennsylvania – FinTech: Foundations & Applications of Financial Technology](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/10WhartonFintech/certificate.pdf?raw=true)** _(opens in new tab)_
+- 🎓 **[Wharton School, University of Pennsylvania – FinTech: Foundations & Applications of Financial Technology](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/10WhartonFintech/Coursera%20PAVRCJXM4CJQ%20Fintech%20Specialisation%20Cert.pdf)** _(opens in new tab)_
 
-- 🎓 **[Indian Institute of Management Ahmedabad (IIM-A) – Executive Certificate in Leading Digital Transformation](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/13%20IIM%20A%20DigitalTransformation/certificate.pdf?raw=true)** _(opens in new tab)_
+- 🎓 **[Indian Institute of Management Ahmedabad (IIM-A) – Executive Certificate in Leading Digital Transformation](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/13%20IIM%20A%20DigitalTransformation/623c40e77b7dae082fdd052e.pdf)** _(opens in new tab)_
 
 ---
 
