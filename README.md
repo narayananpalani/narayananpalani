@@ -10,25 +10,48 @@ Welcome to my Github Profile
 🔭 My passion is empowering software leaders to lead with empathy, shape culture, establish vision and encourage growth at every opportunity and optimize performance through radical candor. My experience of balancing delivery pragmatism, craftsmanship and people has been honed through top CSAT scores and customer satisfaction.
 
 
-:sparkles: European Software Testing Awards - Best Test Manager of the Year (Title Winner) :sparkles:
+<h3 align="center">✨ European Software Testing Awards — Best Test Manager of the Year (Title Winner) ✨</h3>
 
-[![European Software Testing Awards](https://github.com/narayananpalani/narayananpalani/blob/master/images/european_testing_awards_mini.gif?raw=true)](https://engineers-hub.teachable.com/)
+<p align="center">
+  <a href="https://engineers-hub.teachable.com/" target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/narayananpalani/blob/master/images/european_testing_awards_mini.gif?raw=true" 
+         alt="European Software Testing Awards" width="220" height="220" style="border-radius:10px; margin:10px;" />
+  </a>
+</p>
 
+<p align="center">
+  🌱 I am a receiver of <strong>'Tier 1 Exceptional Talent'</strong> visa with an endorsement from TechCity UK to help and improve digital technology.
+</p>
 
- 🌱 I am a receiver of 'Tier 1 Exceptional Talent' visa with an endorsement from TechCity UK to help and improve digital technology.
+<p align="center">
+  :octocat: There are some exciting open-source projects for Developers and QA professionals — absolutely free!  
+  👉 <em>Feel free to fork them from my repositories below.</em>
+</p>
 
-:octocat: There are some exciting github open source projects for the use of Developers and QA community absolutely 100% free-please fork from my repositories shared within github.
- 
+<hr/>
 
-# LATEST BOOKS ON CODE DEVELOPMENT
-[![WebAccessibilityBook](https://images.routledge.com/common/jackets/crclarge/978103220/9781032202006.jpg)](https://www.routledge.com/The-Web-Accessibility-Project-Development-and-Testing-Best-Practices/Palani/p/book/9781032202006)
+<h2 align="center">📚 Latest Books</h2>
 
-# LATEST BOOKS ON AUTOMATION
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-[![CypressIOBook](https://github.com/narayananpalani/cypress-test-techniques/blob/master/lessons/CypressIOtestframework.gif?raw=true)](https://www.routledge.com/Automated-Software-Testing-with-Cypress/Palani/p/book/9780367699543)
+  <a href="https://www.routledge.com/The-Web-Accessibility-Project-Development-and-Testing-Best-Practices/Palani/p/book/9781032202006" 
+     target="_blank" rel="noopener">
+    <img src="https://images.routledge.com/common/jackets/crclarge/978103220/9781032202006.jpg" 
+         alt="The Web Accessibility Project" width="220" height="220" style="border-radius:10px; box-shadow:0 0 5px rgba(0,0,0,0.2);" />
+  </a>
 
+  <a href="https://www.routledge.com/Automated-Software-Testing-with-Cypress/Palani/p/book/9780367699543" 
+     target="_blank" rel="noopener">
+    <img src="https://github.com/narayananpalani/cypress-test-techniques/blob/master/lessons/CypressIOtestframework.gif?raw=true" 
+         alt="Automated Software Testing with Cypress" width="220" height="220" style="border-radius:10px; box-shadow:0 0 5px rgba(0,0,0,0.2);" />
+  </a>
 
-⚡Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=narayananpalani
+</div>
+
+<p align="center">
+  ⚡ Follow me on <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=narayananpalani" target="_blank" rel="noopener">LinkedIn</a>
+</p>
+
 
 <!--
 **narayananpalani/narayananpalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
