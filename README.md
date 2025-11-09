@@ -83,6 +83,30 @@ Partnered with **CIOs, CTOs, and Group CEOs** to shape technical vision, archite
 ✨ *Engineering isn’t just about technology — it’s about people, progress, and purpose.* ✨
 
 
+## 🎓 University Executive Studies
+
+🌍 **Continuous learner** focused on leadership, innovation, and digital transformation through world-class executive education programs.
+
+---
+
+### 🏛️ Academic Credentials
+
+- 🎓 **[Harvard Business School Online – Certificate of Specialization in Leadership & Management](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/00HBSonline/CertOfSpecializationLdrshipMgmt.pdf?raw=true)** _(opens in new tab)_
+
+- 🎓 **[University of Exeter Business School – Sustainability Leadership Program](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/01ExeterBusinessSchool/certificate.pdf?raw=true)** _(opens in new tab)_
+
+- 🎓 **[University of Cambridge – Executive Program on Digital Transformation & Strategy](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/02UnivOfCambridge/certificate.pdf?raw=true)** _(opens in new tab)_
+
+- 🎓 **[Wharton School, University of Pennsylvania – FinTech: Foundations & Applications of Financial Technology](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/10WhartonFintech/certificate.pdf?raw=true)** _(opens in new tab)_
+
+- 🎓 **[Indian Institute of Management Ahmedabad (IIM-A) – Executive Certificate in Leading Digital Transformation](https://github.com/narayananpalani/narayananpalani/blob/master/images/Certifications/13%20IIM%20A%20DigitalTransformation/certificate.pdf?raw=true)** _(opens in new tab)_
+
+---
+
+💡 *Each link opens the verified PDF certificate directly from this repository.*
+
+
+
 ## 🎖 Certification Badges
 
 Below are selected certifications — click a badge to view the verification/vendor page.
